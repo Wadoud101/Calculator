@@ -6,4 +6,4 @@ Sayıların arasında virgül konması için azcık çaba harcanmıştır.
 
 # Calculator
 
-![](Hesap makinesi.gif)
+![hesap!](https://github.com/Wadoud101/Calculator/blob/master/Hesap%20makinesi.gif)
