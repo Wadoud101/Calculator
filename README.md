@@ -5,4 +5,4 @@ html, css ve JavaScript ile sade ve güzel bir hesap makinesidir.
 Sayıların arasında virgül konması için azcık çaba harcanmıştır.
 
 # Calculator
-![](Calculator.gif)
+![](Hesap makinesi.gif)
